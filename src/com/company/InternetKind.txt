@@ -1,0 +1,3 @@
+23.2 Careful1 BIGHORN fiber 150 100
+13.2 Careful2 YELK fiber 100 100
+50.2 Careful3 SOSNOVAYA fiber 500 200
